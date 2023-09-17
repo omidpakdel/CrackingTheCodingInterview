@@ -4,6 +4,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArraysAndStrings", "ArraysA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsUnique", "ArraysAndStrings\IsUnique\IsUnique.csproj", "{456DC5F5-91F9-481A-BF45-D66329EA7C6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPermutation", "ArraysAndStrings\CheckPermutation\CheckPermutation.csproj", "{1093FB6B-C1AF-41F8-96AA-F25B497B3DC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -11,11 +13,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{456DC5F5-91F9-481A-BF45-D66329EA7C6F} = {D63D8E48-C391-4CA6-B13C-8689368D1216}
+		{1093FB6B-C1AF-41F8-96AA-F25B497B3DC7} = {D63D8E48-C391-4CA6-B13C-8689368D1216}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{456DC5F5-91F9-481A-BF45-D66329EA7C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{456DC5F5-91F9-481A-BF45-D66329EA7C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{456DC5F5-91F9-481A-BF45-D66329EA7C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{456DC5F5-91F9-481A-BF45-D66329EA7C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1093FB6B-C1AF-41F8-96AA-F25B497B3DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1093FB6B-C1AF-41F8-96AA-F25B497B3DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1093FB6B-C1AF-41F8-96AA-F25B497B3DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1093FB6B-C1AF-41F8-96AA-F25B497B3DC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
